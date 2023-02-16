@@ -1,0 +1,250 @@
+{
+    "header": [
+        " *   ",
+        " *   如非需要调试，本文件可删除",
+        " *   非专业人员可将本文件删除",
+        " *   详细介绍请参考: https://bazhan.wang/faq#INFO-JSON",
+        " *   "
+    ],
+    "resources": [
+        {
+            "url": "https://g.5iux.cn/",
+            "path": "index.html",
+            "saved": true,
+            "size": 31653,
+            "children": [
+                {
+                    "url": "https://cn.bing.com//th?id=OHR.HuntsMesa_JA-JP3140979616_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+                    "path": "img/th.jpeg",
+                    "saved": true,
+                    "size": 342890
+                },
+                {
+                    "url": "https://cdn.5iux.cn/pic/20200424logo4.svg",
+                    "saved": false
+                },
+                {
+                    "url": "https://cdnjs.loli.net/ajax/libs/jquery/3.5.1/jquery.min.js",
+                    "path": "js/jquery.min.js",
+                    "saved": true,
+                    "size": 89476
+                },
+                {
+                    "url": "https://g.5iux.cn/icons/iconfont.js",
+                    "path": "js/iconfont.js",
+                    "saved": true,
+                    "size": 215927
+                },
+                {
+                    "url": "https://static.cloudflareinsights.com/beacon.min.js",
+                    "path": "js/beacon.min.js",
+                    "saved": true,
+                    "size": 17031
+                },
+                {
+                    "url": "https://www.googletagmanager.com/gtag/js?id=G-ZV6PDEXYSM",
+                    "saved": false
+                },
+                {
+                    "url": "https://widget.heweather.net/simple/static/js/he-simple-common.js?v=1.1",
+                    "path": "js/he-simple-common.js",
+                    "saved": true,
+                    "size": 400
+                },
+                {
+                    "url": "https://g.5iux.cn/sou.js",
+                    "path": "js/sou.js",
+                    "saved": true,
+                    "size": 3503
+                },
+                {
+                    "url": "https://cdn.bootcdn.net/ajax/libs/twitter-bootstrap/4.5.0/js/bootstrap.min.js",
+                    "saved": false
+                },
+                {
+                    "url": "https://cdn.bootcdn.net/ajax/libs/twitter-bootstrap/4.5.0/css/bootstrap.min.css",
+                    "saved": false
+                },
+                {
+                    "url": "https://cdnjs.loli.net/ajax/libs/font-awesome/5.13.0/css/all.min.css",
+                    "path": "css/all.min.css",
+                    "saved": true,
+                    "size": 58515,
+                    "children": [
+                        {
+                            "url": "https://cdnjs.loli.net/ajax/libs/font-awesome/5.13.0/webfonts/fa-brands-400.eot",
+                            "path": "fonts/fa-brands-400.eot",
+                            "saved": true,
+                            "size": 133034
+                        },
+                        {
+                            "url": "https://cdnjs.loli.net/ajax/libs/font-awesome/5.13.0/webfonts/fa-brands-400.woff2",
+                            "path": "fonts/fa-brands-400.woff2",
+                            "saved": true,
+                            "size": 76612
+                        },
+                        {
+                            "url": "https://cdnjs.loli.net/ajax/libs/font-awesome/5.13.0/webfonts/fa-brands-400.woff",
+                            "path": "fonts/fa-brands-400.woff",
+                            "saved": true,
+                            "size": 89824
+                        },
+                        {
+                            "url": "https://cdnjs.loli.net/ajax/libs/font-awesome/5.13.0/webfonts/fa-brands-400.ttf",
+                            "path": "fonts/fa-brands-400.ttf",
+                            "saved": true,
+                            "size": 132728
+                        },
+                        {
+                            "url": "https://cdnjs.loli.net/ajax/libs/font-awesome/5.13.0/webfonts/fa-brands-400.svg#fontawesome",
+                            "path": "img/fa-brands-400.svg",
+                            "saved": true,
+                            "size": 715890
+                        },
+                        {
+                            "url": "https://cdnjs.loli.net/ajax/libs/font-awesome/5.13.0/webfonts/fa-regular-400.eot",
+                            "path": "fonts/fa-regular-400.eot",
+                            "saved": true,
+                            "size": 34390
+                        },
+                        {
+                            "url": "https://cdnjs.loli.net/ajax/libs/font-awesome/5.13.0/webfonts/fa-regular-400.woff2",
+                            "path": "fonts/fa-regular-400.woff2",
+                            "saved": true,
+                            "size": 13584
+                        },
+                        {
+                            "url": "https://cdnjs.loli.net/ajax/libs/font-awesome/5.13.0/webfonts/fa-regular-400.woff",
+                            "path": "fonts/fa-regular-400.woff",
+                            "saved": true,
+                            "size": 16800
+                        },
+                        {
+                            "url": "https://cdnjs.loli.net/ajax/libs/font-awesome/5.13.0/webfonts/fa-regular-400.ttf",
+                            "path": "fonts/fa-regular-400.ttf",
+                            "saved": true,
+                            "size": 34092
+                        },
+                        {
+                            "url": "https://cdnjs.loli.net/ajax/libs/font-awesome/5.13.0/webfonts/fa-regular-400.svg#fontawesome",
+                            "path": "img/fa-regular-400.svg",
+                            "saved": true,
+                            "size": 144322
+                        },
+                        {
+                            "url": "https://cdnjs.loli.net/ajax/libs/font-awesome/5.13.0/webfonts/fa-solid-900.eot",
+                            "path": "fonts/fa-solid-900.eot",
+                            "saved": true,
+                            "size": 202902
+                        },
+                        {
+                            "url": "https://cdnjs.loli.net/ajax/libs/font-awesome/5.13.0/webfonts/fa-solid-900.woff2",
+                            "path": "fonts/fa-solid-900.woff2",
+                            "saved": true,
+                            "size": 79444
+                        },
+                        {
+                            "url": "https://cdnjs.loli.net/ajax/libs/font-awesome/5.13.0/webfonts/fa-solid-900.woff",
+                            "path": "fonts/fa-solid-900.woff",
+                            "saved": true,
+                            "size": 103300
+                        },
+                        {
+                            "url": "https://cdnjs.loli.net/ajax/libs/font-awesome/5.13.0/webfonts/fa-solid-900.ttf",
+                            "path": "fonts/fa-solid-900.ttf",
+                            "saved": true,
+                            "size": 202616
+                        },
+                        {
+                            "url": "https://cdnjs.loli.net/ajax/libs/font-awesome/5.13.0/webfonts/fa-solid-900.svg#fontawesome",
+                            "path": "img/fa-solid-900.svg",
+                            "saved": true,
+                            "size": 897426
+                        }
+                    ]
+                },
+                {
+                    "url": "https://g.5iux.cn/style.css",
+                    "path": "css/style.css",
+                    "saved": true,
+                    "size": 6032,
+                    "children": [
+                        {
+                            "url": "https://g.5iux.cn/sou.svg",
+                            "path": "img/sou.svg",
+                            "saved": true,
+                            "size": 789
+                        }
+                    ]
+                },
+                {
+                    "url": "https://g.5iux.cn/280.png",
+                    "path": "img/280.png",
+                    "saved": true,
+                    "size": 8252
+                },
+                {
+                    "url": "https://g.5iux.cn/32.png",
+                    "path": "img/32.png",
+                    "saved": true,
+                    "size": 2037
+                }
+            ]
+        }
+    ],
+    "alias": "g-5iux-cn-cekyp8xr",
+    "info": {
+        "remark": [],
+        "title": "5IUX搜索",
+        "domain": "g.5iux.cn",
+        "origin": "https://g.5iux.cn",
+        "ip": "76.76.21.98",
+        "main": "index.html",
+        "url": "https://g.5iux.cn/",
+        "totalSize": "3.65 MB",
+        "request": {
+            "headers": {
+                "accept": "text/html,*/*",
+                "accept-language": "zh-CN,zh;q=0.9",
+                "cache-control": "no-cache",
+                "cookie": "",
+                "referer": "https://g.5iux.cn/",
+                "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36",
+                "x-scraper-website": "https://bazhan.wang/"
+            }
+        },
+        "response": {
+            "responseUrl": "https://g.5iux.cn/",
+            "redirects": [],
+            "statusCode": 200,
+            "headers": {
+                "accept-ranges": "bytes",
+                "access-control-allow-origin": "*",
+                "age": "9559143",
+                "cache-control": "public, max-age=0, must-revalidate",
+                "content-disposition": "inline; filename=\"index.html\"",
+                "content-length": "32399",
+                "content-type": "text/html; charset=utf-8",
+                "date": "Thu, 16 Feb 2023 07:53:47 GMT",
+                "etag": "W/\"8c70e683fafa53e4a466e8b9cf7f880a9a135c78e71cd647341ac9a0cc32e32d\"",
+                "server": "Vercel",
+                "strict-transport-security": "max-age=63072000",
+                "x-vercel-cache": "HIT",
+                "x-vercel-id": "hnd1:hnd1::wlmm9-1676534027994-ad6da34236bf",
+                "connection": "close"
+            }
+        },
+        "time": {
+            "start": "2023-02-16T07:53:47.783Z",
+            "end": "2023-02-16T07:53:52.919Z"
+        }
+    },
+    "options": {
+        "url": "https://g.5iux.cn/",
+        "referer": "",
+        "cookies": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36",
+        "formatter": [],
+        "filenameGenerator": "byType"
+    }
+}
